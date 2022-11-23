@@ -1,0 +1,1427 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch swapTwoNodesLL",
+            "request": "launch",
+            "mainClass": "Milestone3.LinkedList2.swapTwoNodesLL",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch deleteEveryNNodeafterMNode",
+            "request": "launch",
+            "mainClass": "Milestone3.LinkedList2.deleteEveryNNodeafterMNode",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch evenAfterOddLL",
+            "request": "launch",
+            "mainClass": "Milestone3.LinkedList2.evenAfterOddLL",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch findIndexOfNodeRecursive",
+            "request": "launch",
+            "mainClass": "Milestone3.LinkedList2.findIndexOfNodeRecursive",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch CollectionsLinkedList",
+            "request": "launch",
+            "mainClass": "Milestone3.LinkedList2.CollectionsLinkedList",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch mergeSortLL",
+            "request": "launch",
+            "mainClass": "Milestone3.LinkedList2.mergeSortLL",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch mergeTwoSortedLL",
+            "request": "launch",
+            "mainClass": "Milestone3.LinkedList2.mergeTwoSortedLL",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch mergeTwoLL",
+            "request": "launch",
+            "mainClass": "Milestone3.LinkedList2.mergeTwoLL",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckPrime",
+            "request": "launch",
+            "mainClass": "Milestone1.FunctionsAndScopes.CheckPrime",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch DivideNumber",
+            "request": "launch",
+            "mainClass": "Milestone1.FunctionsAndScopes.DivideNumber",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch FahrenheitToCelciusTable",
+            "request": "launch",
+            "mainClass": "Milestone1.FunctionsAndScopes.FahrenheitToCelciusTable",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch FibonacciNumber",
+            "request": "launch",
+            "mainClass": "Milestone1.FunctionsAndScopes.FibonacciNumber",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch FunctionOverloading",
+            "request": "launch",
+            "mainClass": "Milestone1.FunctionsAndScopes.FunctionOverloading",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch MoreOnFunctions",
+            "request": "launch",
+            "mainClass": "Milestone1.FunctionsAndScopes.MoreOnFunctions",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch NcR",
+            "request": "launch",
+            "mainClass": "Milestone1.FunctionsAndScopes.NcR",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch VoidFunction",
+            "request": "launch",
+            "mainClass": "Milestone1.FunctionsAndScopes.VoidFunction",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch AddTwoNumbers",
+            "request": "launch",
+            "mainClass": "Milestone1.Fundamentals.AddTwoNumbers",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Average_Marks",
+            "request": "launch",
+            "mainClass": "Milestone1.Fundamentals.Average_Marks",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckPrime(1)",
+            "request": "launch",
+            "mainClass": "Milestone1.Fundamentals.CheckPrime",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConditionalAndRelational",
+            "request": "launch",
+            "mainClass": "Milestone1.Fundamentals.ConditionalAndRelational",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch DataTypeStorage",
+            "request": "launch",
+            "mainClass": "Milestone1.Fundamentals.DataTypeStorage",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch DataTypes",
+            "request": "launch",
+            "mainClass": "Milestone1.Fundamentals.DataTypes",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch EvenOdd",
+            "request": "launch",
+            "mainClass": "Milestone1.Fundamentals.EvenOdd",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factors",
+            "request": "launch",
+            "mainClass": "Milestone1.Fundamentals.Factors",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch FahrenheitToCelcius",
+            "request": "launch",
+            "mainClass": "Milestone1.Fundamentals.FahrenheitToCelcius",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch GrabFirstCharacter",
+            "request": "launch",
+            "mainClass": "Milestone1.Fundamentals.GrabFirstCharacter",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch LargestOfTwo",
+            "request": "launch",
+            "mainClass": "Milestone1.Fundamentals.LargestOfTwo",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch PowerofANumber",
+            "request": "launch",
+            "mainClass": "Milestone1.Fundamentals.PowerofANumber",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prime_ReturnKeyword",
+            "request": "launch",
+            "mainClass": "Milestone1.Fundamentals.Prime_ReturnKeyword",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch RelationalLogicalOperator",
+            "request": "launch",
+            "mainClass": "Milestone1.Fundamentals.RelationalLogicalOperator",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch ScopeOfVariable",
+            "request": "launch",
+            "mainClass": "Milestone1.Fundamentals.ScopeOfVariable",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "Milestone1.Fundamentals.Solution",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOfEvenAndOdd",
+            "request": "launch",
+            "mainClass": "Milestone1.Fundamentals.SumOfEvenAndOdd",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOfNumbers",
+            "request": "launch",
+            "mainClass": "Milestone1.Fundamentals.SumOfNumbers",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch TotalSalary",
+            "request": "launch",
+            "mainClass": "Milestone1.Fundamentals.TotalSalary",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch TypeConversion",
+            "request": "launch",
+            "mainClass": "Milestone1.Fundamentals.TypeConversion",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch TypeConversion1",
+            "request": "launch",
+            "mainClass": "Milestone1.Fundamentals.TypeConversion1",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch TypeConversion2",
+            "request": "launch",
+            "mainClass": "Milestone1.Fundamentals.TypeConversion2",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch WhileLoop",
+            "request": "launch",
+            "mainClass": "Milestone1.Fundamentals.WhileLoop",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch multiplicationTable",
+            "request": "launch",
+            "mainClass": "Milestone1.Fundamentals.multiplicationTable",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch AllPrimeNumbers",
+            "request": "launch",
+            "mainClass": "Milestone1.OperatorsAndForLoops.AllPrimeNumbers",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinaryTodecimal",
+            "request": "launch",
+            "mainClass": "Milestone1.OperatorsAndForLoops.BinaryTodecimal",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch BitwiseOperator",
+            "request": "launch",
+            "mainClass": "Milestone1.OperatorsAndForLoops.BitwiseOperator",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Break",
+            "request": "launch",
+            "mainClass": "Milestone1.OperatorsAndForLoops.Break",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckNumberSequence",
+            "request": "launch",
+            "mainClass": "Milestone1.OperatorsAndForLoops.CheckNumberSequence",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch ContinueKeyword",
+            "request": "launch",
+            "mainClass": "Milestone1.OperatorsAndForLoops.ContinueKeyword",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch DecimalToBinary",
+            "request": "launch",
+            "mainClass": "Milestone1.OperatorsAndForLoops.DecimalToBinary",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForLoop",
+            "request": "launch",
+            "mainClass": "Milestone1.OperatorsAndForLoops.ForLoop",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForLoopVariations",
+            "request": "launch",
+            "mainClass": "Milestone1.OperatorsAndForLoops.ForLoopVariations",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch InfiniteLoopByContinueKeyword",
+            "request": "launch",
+            "mainClass": "Milestone1.OperatorsAndForLoops.InfiniteLoopByContinueKeyword",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch NestedLoop",
+            "request": "launch",
+            "mainClass": "Milestone1.OperatorsAndForLoops.NestedLoop",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch NthFibonacciNumber",
+            "request": "launch",
+            "mainClass": "Milestone1.OperatorsAndForLoops.NthFibonacciNumber",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseOfANumber",
+            "request": "launch",
+            "mainClass": "Milestone1.OperatorsAndForLoops.ReverseOfANumber",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch SquareRoot",
+            "request": "launch",
+            "mainClass": "Milestone1.OperatorsAndForLoops.SquareRoot",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch TermsofAP",
+            "request": "launch",
+            "mainClass": "Milestone1.OperatorsAndForLoops.TermsofAP",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern1",
+            "request": "launch",
+            "mainClass": "Milestone1.Pattern.Pattern1",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern10",
+            "request": "launch",
+            "mainClass": "Milestone1.Pattern.Pattern10",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern11",
+            "request": "launch",
+            "mainClass": "Milestone1.Pattern.Pattern11",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern12",
+            "request": "launch",
+            "mainClass": "Milestone1.Pattern.Pattern12",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern13",
+            "request": "launch",
+            "mainClass": "Milestone1.Pattern.Pattern13",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern14",
+            "request": "launch",
+            "mainClass": "Milestone1.Pattern.Pattern14",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern15",
+            "request": "launch",
+            "mainClass": "Milestone1.Pattern.Pattern15",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern16",
+            "request": "launch",
+            "mainClass": "Milestone1.Pattern.Pattern16",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern17",
+            "request": "launch",
+            "mainClass": "Milestone1.Pattern.Pattern17",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern18",
+            "request": "launch",
+            "mainClass": "Milestone1.Pattern.Pattern18",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern19",
+            "request": "launch",
+            "mainClass": "Milestone1.Pattern.Pattern19",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern2",
+            "request": "launch",
+            "mainClass": "Milestone1.Pattern.Pattern2",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern20",
+            "request": "launch",
+            "mainClass": "Milestone1.Pattern.Pattern20",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern21",
+            "request": "launch",
+            "mainClass": "Milestone1.Pattern.Pattern21",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern22",
+            "request": "launch",
+            "mainClass": "Milestone1.Pattern.Pattern22",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern23",
+            "request": "launch",
+            "mainClass": "Milestone1.Pattern.Pattern23",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern24",
+            "request": "launch",
+            "mainClass": "Milestone1.Pattern.Pattern24",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern25",
+            "request": "launch",
+            "mainClass": "Milestone1.Pattern.Pattern25",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern26",
+            "request": "launch",
+            "mainClass": "Milestone1.Pattern.Pattern26",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern3",
+            "request": "launch",
+            "mainClass": "Milestone1.Pattern.Pattern3",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern4",
+            "request": "launch",
+            "mainClass": "Milestone1.Pattern.Pattern4",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern5",
+            "request": "launch",
+            "mainClass": "Milestone1.Pattern.Pattern5",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern6",
+            "request": "launch",
+            "mainClass": "Milestone1.Pattern.Pattern6",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern7",
+            "request": "launch",
+            "mainClass": "Milestone1.Pattern.Pattern7",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern8",
+            "request": "launch",
+            "mainClass": "Milestone1.Pattern.Pattern8",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern9",
+            "request": "launch",
+            "mainClass": "Milestone1.Pattern.Pattern9",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckArmstrong",
+            "request": "launch",
+            "mainClass": "Milestone1.Test1.CheckArmstrong",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumberStarPattern1",
+            "request": "launch",
+            "mainClass": "Milestone1.Test1.NumberStarPattern1",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch ZeroesAndStarPatterns",
+            "request": "launch",
+            "mainClass": "Milestone1.Test1.ZeroesAndStarPatterns",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch InputAndPrint",
+            "request": "launch",
+            "mainClass": "Milestone2.Array2D.InputAndPrint",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch basicsOf2dArray",
+            "request": "launch",
+            "mainClass": "Milestone2.Array2D.basicsOf2dArray",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch functionswith2darray",
+            "request": "launch",
+            "mainClass": "Milestone2.Array2D.functionswith2darray",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch largestColSum",
+            "request": "launch",
+            "mainClass": "Milestone2.Array2D.largestColSum",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch largestRoworColumn",
+            "request": "launch",
+            "mainClass": "Milestone2.Array2D.largestRoworColumn",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch moreOn2dArray",
+            "request": "launch",
+            "mainClass": "Milestone2.Array2D.moreOn2dArray",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch printLikeaWave",
+            "request": "launch",
+            "mainClass": "Milestone2.Array2D.printLikeaWave",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch printSpiral",
+            "request": "launch",
+            "mainClass": "Milestone2.Array2D.printSpiral",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch rowWiseSum",
+            "request": "launch",
+            "mainClass": "Milestone2.Array2D.rowWiseSum",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch totalSumontheBoundariesandDiagonals",
+            "request": "launch",
+            "mainClass": "Milestone2.Array2D.totalSumontheBoundariesandDiagonals",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrangeNumbersInArray",
+            "request": "launch",
+            "mainClass": "Milestone2.Arrays1.ArrangeNumbersInArray",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch BasicsOfArray",
+            "request": "launch",
+            "mainClass": "Milestone2.Arrays1.BasicsOfArray",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch DeclareArray",
+            "request": "launch",
+            "mainClass": "Milestone2.Arrays1.DeclareArray",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindDuplicate",
+            "request": "launch",
+            "mainClass": "Milestone2.Arrays1.FindDuplicate",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindUnique",
+            "request": "launch",
+            "mainClass": "Milestone2.Arrays1.FindUnique",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindingTheLargestElement",
+            "request": "launch",
+            "mainClass": "Milestone2.Arrays1.FindingTheLargestElement",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch InputOfArray",
+            "request": "launch",
+            "mainClass": "Milestone2.Arrays1.InputOfArray",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch IntersectionOfTwoArrays_II",
+            "request": "launch",
+            "mainClass": "Milestone2.Arrays1.IntersectionOfTwoArrays_II",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinearSearch",
+            "request": "launch",
+            "mainClass": "Milestone2.Arrays1.LinearSearch",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch PairSum",
+            "request": "launch",
+            "mainClass": "Milestone2.Arrays1.PairSum",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimitivesAndNonPrimitives",
+            "request": "launch",
+            "mainClass": "Milestone2.Arrays1.PrimitivesAndNonPrimitives",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintAllPairs",
+            "request": "launch",
+            "mainClass": "Milestone2.Arrays1.PrintAllPairs",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReturnArraySum",
+            "request": "launch",
+            "mainClass": "Milestone2.Arrays1.ReturnArraySum",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sort01",
+            "request": "launch",
+            "mainClass": "Milestone2.Arrays1.Sort01",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch SwapAlternate",
+            "request": "launch",
+            "mainClass": "Milestone2.Arrays1.SwapAlternate",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch TripletSum",
+            "request": "launch",
+            "mainClass": "Milestone2.Arrays1.TripletSum",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch checkArrayRotation",
+            "request": "launch",
+            "mainClass": "Milestone2.Arrays2.checkArrayRotation",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch codeBinarySearch",
+            "request": "launch",
+            "mainClass": "Milestone2.Arrays2.codeBinarySearch",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch codeBubbleSort",
+            "request": "launch",
+            "mainClass": "Milestone2.Arrays2.codeBubbleSort",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch codeInsertionSort",
+            "request": "launch",
+            "mainClass": "Milestone2.Arrays2.codeInsertionSort",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch codeMergeTwoSortedArrays",
+            "request": "launch",
+            "mainClass": "Milestone2.Arrays2.codeMergeTwoSortedArrays",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch codeSelectionSort",
+            "request": "launch",
+            "mainClass": "Milestone2.Arrays2.codeSelectionSort",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch pushZerosToEnd",
+            "request": "launch",
+            "mainClass": "Milestone2.Arrays2.pushZerosToEnd",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverseArray",
+            "request": "launch",
+            "mainClass": "Milestone2.Arrays2.reverseArray",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch rotateArray",
+            "request": "launch",
+            "mainClass": "Milestone2.Arrays2.rotateArray",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch secondLargestInArray",
+            "request": "launch",
+            "mainClass": "Milestone2.Arrays2.secondLargestInArray",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch sort012",
+            "request": "launch",
+            "mainClass": "Milestone2.Arrays2.sort012",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumOfTwoArray",
+            "request": "launch",
+            "mainClass": "Milestone2.Arrays2.sumOfTwoArray",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch AllSubstrings",
+            "request": "launch",
+            "mainClass": "Milestone2.Strings.AllSubstrings",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringBufferDemo",
+            "request": "launch",
+            "mainClass": "Milestone2.Strings.StringBufferDemo",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch checkPalindromeHint",
+            "request": "launch",
+            "mainClass": "Milestone2.Strings.checkPalindromeHint",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch checkPermutation",
+            "request": "launch",
+            "mainClass": "Milestone2.Strings.checkPermutation",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch compresssTheString",
+            "request": "launch",
+            "mainClass": "Milestone2.Strings.compresssTheString",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch countWords",
+            "request": "launch",
+            "mainClass": "Milestone2.Strings.countWords",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch highestOccuringCharacter",
+            "request": "launch",
+            "mainClass": "Milestone2.Strings.highestOccuringCharacter",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch introductionToString",
+            "request": "launch",
+            "mainClass": "Milestone2.Strings.introductionToString",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch moreFunctionsOnString",
+            "request": "launch",
+            "mainClass": "Milestone2.Strings.moreFunctionsOnString",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch printAllChars",
+            "request": "launch",
+            "mainClass": "Milestone2.Strings.printAllChars",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch removeCharacter",
+            "request": "launch",
+            "mainClass": "Milestone2.Strings.removeCharacter",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch removeConsecutiveDuplicates",
+            "request": "launch",
+            "mainClass": "Milestone2.Strings.removeConsecutiveDuplicates",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverseEachWord",
+            "request": "launch",
+            "mainClass": "Milestone2.Strings.reverseEachWord",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverseString",
+            "request": "launch",
+            "mainClass": "Milestone2.Strings.reverseString",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverseStringWordWise",
+            "request": "launch",
+            "mainClass": "Milestone2.Strings.reverseStringWordWise",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch takingStringInput",
+            "request": "launch",
+            "mainClass": "Milestone2.Strings.takingStringInput",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch understandingStringsStorage",
+            "request": "launch",
+            "mainClass": "Milestone2.Strings.understandingStringsStorage",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch minimumLengthWord",
+            "request": "launch",
+            "mainClass": "Milestone2.Test2.minimumLengthWord",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch print2darray",
+            "request": "launch",
+            "mainClass": "Milestone2.Test2.print2darray",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedListUse",
+            "request": "launch",
+            "mainClass": "Milestone3.LinkedList1.LinkedListUse",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch appendLastNToFirst",
+            "request": "launch",
+            "mainClass": "Milestone3.LinkedList1.appendLastNToFirst",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrayListDemo",
+            "request": "launch",
+            "mainClass": "Milestone3.LinkedList1.arrayListDemo",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch deleteNode",
+            "request": "launch",
+            "mainClass": "Milestone3.LinkedList1.deleteNode",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch eliminateDuplicate",
+            "request": "launch",
+            "mainClass": "Milestone3.LinkedList1.eliminateDuplicate",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch findIndexOfNode",
+            "request": "launch",
+            "mainClass": "Milestone3.LinkedList1.findIndexOfNode",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch insertNode",
+            "request": "launch",
+            "mainClass": "Milestone3.LinkedList1.insertNode",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch print_ith_Node",
+            "request": "launch",
+            "mainClass": "Milestone3.LinkedList1.print_ith_Node",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch removeConsecutiveDuplicate",
+            "request": "launch",
+            "mainClass": "Milestone3.LinkedList1.removeConsecutiveDuplicate",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch deleteRecursively",
+            "request": "launch",
+            "mainClass": "Milestone3.LinkedList2.deleteRecursively",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch insertRecurively",
+            "request": "launch",
+            "mainClass": "Milestone3.LinkedList2.insertRecurively",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch midPointLinkedList",
+            "request": "launch",
+            "mainClass": "Milestone3.LinkedList2.midPointLinkedList",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch printReverseLinkedList",
+            "request": "launch",
+            "mainClass": "Milestone3.LinkedList2.printReverseLinkedList",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverseLinkedListRecursive",
+            "request": "launch",
+            "mainClass": "Milestone3.LinkedList2.reverseLinkedListRecursive",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch ComplexNumberUse",
+            "request": "launch",
+            "mainClass": "Milestone3.OOPS1_Encapsulation.ComplexNumberUse",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch DynamicArrayUse",
+            "request": "launch",
+            "mainClass": "Milestone3.OOPS1_Encapsulation.DynamicArrayUse",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch FractionUse",
+            "request": "launch",
+            "mainClass": "Milestone3.OOPS1_Encapsulation.FractionUse",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch PolynomialUse",
+            "request": "launch",
+            "mainClass": "Milestone3.OOPS1_Encapsulation.PolynomialUse",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch StudentUse",
+            "request": "launch",
+            "mainClass": "Milestone3.OOPS1_Encapsulation.StudentUse",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionDemo",
+            "request": "launch",
+            "mainClass": "Milestone3.OOPS2_Exception.ExceptionDemo",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch VehicleUse",
+            "request": "launch",
+            "mainClass": "Milestone3.OOPS2_Inheritance.VehicleUse",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch VehicleUse2",
+            "request": "launch",
+            "mainClass": "Milestone3.OOPS2_Inheritance_temp.VehicleUse2",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch PairUse",
+            "request": "launch",
+            "mainClass": "Milestone3.OOPS3_Generics.PairUse",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Print",
+            "request": "launch",
+            "mainClass": "Milestone3.OOPS3_Generics.Print",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch pairofPairs",
+            "request": "launch",
+            "mainClass": "Milestone3.OOPS3_Generics.pairofPairs",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch VehicleUse(1)",
+            "request": "launch",
+            "mainClass": "Milestone3.OOPS3_Interface.VehicleUse",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckNumberInArray",
+            "request": "launch",
+            "mainClass": "Milestone3.Recursion_1.CheckNumberInArray",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch firstIndexOfANumberinAnArray",
+            "request": "launch",
+            "mainClass": "Milestone3.Recursion_1.firstIndexOfANumberinAnArray",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch isArraySorted",
+            "request": "launch",
+            "mainClass": "Milestone3.Recursion_1.isArraySorted",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch lastIndexOfANumberinAnArray",
+            "request": "launch",
+            "mainClass": "Milestone3.Recursion_1.lastIndexOfANumberinAnArray",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch recursion",
+            "request": "launch",
+            "mainClass": "Milestone3.Recursion_1.recursion",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch stringToInteger",
+            "request": "launch",
+            "mainClass": "Milestone3.Recursion_1.stringToInteger",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumOfArray",
+            "request": "launch",
+            "mainClass": "Milestone3.Recursion_1.sumOfArray",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch codeMergeSortUsingRecursion",
+            "request": "launch",
+            "mainClass": "Milestone3.Recursion_2.codeMergeSortUsingRecursion",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch codeQuickSortUsingRecursion",
+            "request": "launch",
+            "mainClass": "Milestone3.Recursion_2.codeQuickSortUsingRecursion",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch codeTowerOfHanoi",
+            "request": "launch",
+            "mainClass": "Milestone3.Recursion_2.codeTowerOfHanoi",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch recursionWithStrings",
+            "request": "launch",
+            "mainClass": "Milestone3.Recursion_2.recursionWithStrings",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch addStar",
+            "request": "launch",
+            "mainClass": "Milestone3.Recursion_Assignment.addStar",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch checkAB",
+            "request": "launch",
+            "mainClass": "Milestone3.Recursion_Assignment.checkAB",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch checkPalindrome",
+            "request": "launch",
+            "mainClass": "Milestone3.Recursion_Assignment.checkPalindrome",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch countZeroes",
+            "request": "launch",
+            "mainClass": "Milestone3.Recursion_Assignment.countZeroes",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch geometricSum",
+            "request": "launch",
+            "mainClass": "Milestone3.Recursion_Assignment.geometricSum",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch multliplication",
+            "request": "launch",
+            "mainClass": "Milestone3.Recursion_Assignment.multliplication",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch stairCase",
+            "request": "launch",
+            "mainClass": "Milestone3.Recursion_Assignment.stairCase",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumOfDigits",
+            "request": "launch",
+            "mainClass": "Milestone3.Recursion_Assignment.sumOfDigits",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrayEquilibriumIndex",
+            "request": "launch",
+            "mainClass": "Milestone3.TimeComplexity.arrayEquilibriumIndex",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrayIntersection",
+            "request": "launch",
+            "mainClass": "Milestone3.TimeComplexity.arrayIntersection",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch duplicateInArray",
+            "request": "launch",
+            "mainClass": "Milestone3.TimeComplexity.duplicateInArray",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch findTheUniqueElement",
+            "request": "launch",
+            "mainClass": "Milestone3.TimeComplexity.findTheUniqueElement",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch pairSumInArray",
+            "request": "launch",
+            "mainClass": "Milestone3.TimeComplexity.pairSumInArray",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch rotateArray(1)",
+            "request": "launch",
+            "mainClass": "Milestone3.TimeComplexity.rotateArray",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch NoOFInputsByScanner",
+            "request": "launch",
+            "mainClass": "Try.NoOFInputsByScanner",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch StudentUse2",
+            "request": "launch",
+            "mainClass": "Try.StudentUse2",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch factorial",
+            "request": "launch",
+            "mainClass": "Try.factorial",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch modulus_divide",
+            "request": "launch",
+            "mainClass": "Try.modulus_divide",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch newnw",
+            "request": "launch",
+            "mainClass": "Try.newnw",
+            "projectName": "Java with DSA_8a2cffe6"
+        },
+        {
+            "type": "java",
+            "name": "Launch panagram",
+            "request": "launch",
+            "mainClass": "Try.panagram",
+            "projectName": "Java with DSA_8a2cffe6"
+        }
+    ]
+}
